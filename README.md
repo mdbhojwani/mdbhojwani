@@ -12,4 +12,4 @@
 
 - 📫 Drop your queries at [manishbhojwani3@gmail.com](manishbhojwani3@gmail.com)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/manish-bhojwani-01287846/](Linkedin)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/manish-bhojwani-01287846/)
