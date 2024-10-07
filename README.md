@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 👨‍💻 All of my extensions are available at [https://github.com/mdbhojwani/mdbhojwani](GitHub)
+- 👨‍💻 All of my extensions are available at [GitHub](https://github.com/mdbhojwani/mdbhojwani)
 
 - 💬 Ask me about **PHP, Magento, Linux, DevOps
 
