@@ -6,11 +6,10 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 👨‍💻 All of my extensions are available at [https://github.com/mdbhojwani/mdbhojwani](https://github.com/mdbhojwani/mdbhojwani)
-
+- 👨‍💻 All of my extensions are available at [https://github.com/mdbhojwani/mdbhojwani](GitHub)
 
 - 💬 Ask me about **PHP, Magento, Linux, DevOps
 
-- 📫 Drop your queries at [https://www.magepsycho.com/contact](https://www.magepsycho.com/contact)
+- 📫 Drop your queries at [manishbhojwani3@gmail.com](manishbhojwani3@gmail.com)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/manish-bhojwani-01287846/](https://www.linkedin.com/in/manish-bhojwani-01287846/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/manish-bhojwani-01287846/](Linkedin)
